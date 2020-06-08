@@ -1,6 +1,8 @@
 # Iniciador de webpack
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack
+Agenda desarrollada con Webpack
+
+gitHub Pages : https://jesussanchez23.github.io/Agenda/
 
 
 ### Notas
